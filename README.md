@@ -1,1 +1,2 @@
-# optimizing-datawarehouse-with-big-query
+# Building-and-Optimizing-Data-Warehouse-with-Big-Query
+Storing and querying massive datasets can be time consuming and expensive without the right hardware and infrastructure. BigQuery is a serverless, highly scalable cloud data warehouse that solves this problem by enabling super-fast SQL queries using the processing power of Google's infrastructure. Simply move your data into BigQuery and let us handle the hard work. You can control access to both the project and your data based on your business needs, such as giving others the ability to view or query your data.
